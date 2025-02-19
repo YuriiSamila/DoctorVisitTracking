@@ -3,8 +3,8 @@ spring:
      name: DoctorVisitTracking
   datasource:
      url: jdbc:mysql://localhost:3306/doctor_visit_tracking
-     username: root
-     password: 1111
+     username:
+     password:
   jpa:
     show-sql: true
     hibernate:
