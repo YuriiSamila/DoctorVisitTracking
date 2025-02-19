@@ -1,1 +1,1 @@
-GET http://localhost:8080/visits/patients?page=0&size=10&search=&doctorIds=
+GET http://localhost:8080/visits/patients?page=0&size=10&search=LastName1&doctorIds=20,25,30
