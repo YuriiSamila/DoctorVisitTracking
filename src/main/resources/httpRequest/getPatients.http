@@ -1,0 +1,1 @@
+GET http://localhost:8080/visits/patients?page=0&size=10&search=&doctorIds=

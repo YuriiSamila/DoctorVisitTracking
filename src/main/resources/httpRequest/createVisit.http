@@ -1,0 +1,9 @@
+POST http://localhost:8080/visits
+Content-Type: application/json
+
+{
+  "startDateTime": "2042-04-01 00:00:00+02:00",
+  "endDateTime": "2042-04-01 01:00:00+02:00",
+  "patientId": 925,
+  "doctorId": 593
+}
